@@ -11,7 +11,7 @@ def main():
   # the Google APIs Console <http://code.google.com/apis/console>
   # to get an API key/developer key for your own application.
   service = build("customsearch", "v1",
-            developerKey="AIzaSyBZt00dFBBKbtJmB2dsXHxrqUXQL519ciQ")
+            developerKey="vsvsvvsvsvsvsv")
 
 
   #Query
@@ -22,7 +22,7 @@ def main():
 
   res = service.cse().list(
       q=query,
-      cx='002567194689148709380:01li9s-zeuq',     #search-engine-ID
+      cx='svsvsvvsvsv',     #search-engine-ID
                                                   #https://cse.google.com/cse/manage/all  
       num = numResults,                           
     ).execute()
