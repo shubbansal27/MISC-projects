@@ -1,0 +1,89 @@
+img {
+
+width: 60%;
+
+}
+
+body {
+margin: 0;
+padding: 0;
+border: 0;
+outline: 0;
+font-size: 100%;
+vertical-align: baseline;
+background: url("../Images/8.png")  transparent;
+background-size: 100% ;
+background-attachment:fixed;
+background-repeat:no-repeat;
+line-height: 1;
+}
+
+tr,td {
+
+padding-right: 5px;
+padding-bottom: 7px;
+
+}
+
+.notify {
+margin-top: 1%;
+color: red;
+}
+
+.info {
+
+margin-top: 6%;
+color: red;
+
+}
+
+.frm	{
+
+margin-top: 8%;
+margin-right: 43%;
+float: right;
+color: black;
+
+}
+
+.reg_img	{
+
+padding-top: 10%;
+padding-left: 29%;
+
+}
+
+.rslt	{
+
+color: grey;
+text-align: center;
+
+}
+
+.rules	{
+
+padding-top: 7%;
+text-align: center;
+font-size: 125%;
+color:black;
+
+}
+
+#wdth1	{
+
+width: 100%;
+
+}
+
+
+#wdth2	{
+
+width: 50%;
+
+}
+
+
+a:link {text-decoration:none; color:white;}
+a:visited {text-decoration:none; color:grey;}
+a:hover {text-decoration:underline; color:white;}
+a:active {text-decoration:underline; color:grey;}

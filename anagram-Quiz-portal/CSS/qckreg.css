@@ -1,0 +1,47 @@
+tr,td {
+
+padding-right: 5px;
+padding-bottom: 7px;
+
+}
+
+.frm	{
+
+margin-top: 11%;
+margin-right: 36%;
+float: right;
+color: black;
+
+}
+
+#wdth1 input	{
+
+width: 90%;
+
+}
+
+#pad {
+
+margin-top: 15px;
+width: 75%;
+
+}
+
+.lnk	{
+
+float: right;
+font-size: 125%;
+
+}
+
+.rslt	{
+
+color: grey;
+text-align: center;
+
+}
+
+a:link {text-decoration:none; color:white;}
+a:visited {text-decoration:none; color:grey;}
+a:hover {text-decoration:underline; color:white;}
+a:active {text-decoration:underline; color:grey;}
